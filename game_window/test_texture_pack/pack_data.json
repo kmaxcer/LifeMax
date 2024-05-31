@@ -1,0 +1,18 @@
+{
+  "version": 1,
+  "texture_resolution": 16,
+  "ids": [
+    ["sand", 1],
+    ["grass", 3],
+    ["dirt", 1],
+    ["gravel", 1],
+    ["snow", 1],
+    ["leaves", 1],
+    ["log", 2]
+  ],
+  "texture_types": {
+    "1": [0, 0, 0, 0, 0, 0],
+    "2": [0, 1, 1, 1, 1, 0],
+    "3": [2, 1, 1, 1, 1, 0]
+  }
+}
